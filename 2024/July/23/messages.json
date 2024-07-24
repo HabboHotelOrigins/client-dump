@@ -1,0 +1,2879 @@
+{
+    "lastCheckedAt": "2024-07-23T16:10:09.780297+00:00",
+    "messages": {
+        "outgoing": [
+            {
+                "id": 42,
+                "name": "APPROVE_PET_NAME",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 101,
+                "name": "GET_CATALOG_INDEX",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 102,
+                "name": "GET_CATALOG_PAGE",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 412,
+                "name": "GET_RECYCLER_PRIZES",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 374,
+                "name": "PURCHASE_AND_WEAR",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 100,
+                "name": "PURCHASE_FROM_CATALOG",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 129,
+                "name": "REDEEM_VOUCHER",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 190,
+                "name": "SCR_BUY",
+                "asNamespace": "hh_club.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 26,
+                "name": "SCR_GET_USER_INFO",
+                "asNamespace": "hh_club.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 215,
+                "name": "GET_ALIAS_LIST",
+                "asNamespace": "hh_dynamic_downloader.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 213,
+                "name": "GET_FURNI_REVISIONS",
+                "asNamespace": "hh_dynamic_downloader.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 105,
+                "name": "BTCKS",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 202,
+                "name": "GENERATEKEY",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 550,
+                "name": "GET_CFH_CATEGORIES",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 8,
+                "name": "GET_CREDITS",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 47,
+                "name": "GET_PASSWORD",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 181,
+                "name": "GET_SESSION_PARAMETERS",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 228,
+                "name": "GET_SOUND_SETTING",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 157,
+                "name": "GETAVAILABLEBADGES",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 206,
+                "name": "INIT_CRYPTO",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 58,
+                "name": "LANGCHECK",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 196,
+                "name": "PONG",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 207,
+                "name": "SECRETKEY",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 229,
+                "name": "SET_SOUND_SETTING",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 4,
+                "name": "TRY_LOGIN",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 6,
+                "name": "UNIQUEID",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 5,
+                "name": "VERSIONCHECK",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 262,
+                "name": "FOLLOW_FRIEND",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 37,
+                "name": "FRIENDLIST_ACCEPTFRIEND",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 38,
+                "name": "FRIENDLIST_DECLINEFRIEND",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 39,
+                "name": "FRIENDLIST_FRIENDREQUEST",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 233,
+                "name": "FRIENDLIST_GETFRIENDREQUESTS",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 32,
+                "name": "FRIENDLIST_GETOFFLINEFRIENDS",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 12,
+                "name": "FRIENDLIST_INIT",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 40,
+                "name": "FRIENDLIST_REMOVEFRIEND",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 15,
+                "name": "FRIENDLIST_UPDATE",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 41,
+                "name": "MESSENGER_HABBOSEARCH",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 117,
+                "name": "IIM",
+                "asNamespace": "hh_games.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 164,
+                "name": "DELETEGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 171,
+                "name": "GAMEEVENT",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 163,
+                "name": "GAMEPARAMETERVALUES",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 159,
+                "name": "GETINSTANCELIST",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 162,
+                "name": "INITIATECREATEGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 165,
+                "name": "INITIATEJOINGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 166,
+                "name": "JOINPARAMETERVALUES",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 168,
+                "name": "KICKPLAYER",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 167,
+                "name": "LEAVEGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 160,
+                "name": "OBSERVEINSTANCE",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 172,
+                "name": "REJOINGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 173,
+                "name": "REQUESTFULLSTATUSUPDATE_2",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 170,
+                "name": "STARTGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 161,
+                "name": "UNOBSERVEINSTANCE",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 169,
+                "name": "WATCHGAME",
+                "asNamespace": "hh_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 298,
+                "name": "GAME_CHAT",
+                "asNamespace": "hh_ig_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 174,
+                "name": "LEVELEDITORCOMMAND",
+                "asNamespace": "hh_ig_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 296,
+                "name": "MSG_PLAYER_INPUT",
+                "asNamespace": "hh_ig_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 297,
+                "name": "REQUESTFULLSTATUSUPDATE",
+                "asNamespace": "hh_ig_gamesys.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 292,
+                "name": "IG_ACCEPT_INVITE_REQUEST",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 308,
+                "name": "IG_CANCEL_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 303,
+                "name": "IG_CHANGE_PARAMETERS",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 288,
+                "name": "IG_CHECK_DIRECTORY_STATUS",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 300,
+                "name": "IG_CREATE_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 293,
+                "name": "IG_DECLINE_INVITE_REQUEST",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 299,
+                "name": "IG_EXIT_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 302,
+                "name": "IG_GET_CREATE_GAME_INFO",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 301,
+                "name": "IG_GET_GAME_LIST",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 291,
+                "name": "IG_GET_LEVEL_HALL_OF_FAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 305,
+                "name": "IG_INVITE_USER",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 309,
+                "name": "IG_JOIN_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 306,
+                "name": "IG_KICK_USER",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 310,
+                "name": "IG_LEAVE_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 304,
+                "name": "IG_LIST_POSSIBLE_INVITEES",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 295,
+                "name": "IG_LOAD_STAGE_READY",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 290,
+                "name": "IG_PLAY_AGAIN",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 289,
+                "name": "IG_ROOM_GAME_STATUS",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 307,
+                "name": "IG_START_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 311,
+                "name": "IG_START_OBSERVING_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 312,
+                "name": "IG_STOP_OBSERVING_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 36,
+                "name": "MESSENGER_ASSIGNPERSMSG",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 30,
+                "name": "MESSENGER_C_CLICK",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 31,
+                "name": "MESSENGER_C_READ",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 191,
+                "name": "MESSENGER_GETMESSAGES",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 201,
+                "name": "MESSENGER_REPORTMESSAGE",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 33,
+                "name": "MESSENGER_SENDMSG",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 19,
+                "name": "ADD_FAVORITE_ROOM",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 20,
+                "name": "DEL_FAVORITE_ROOM",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 23,
+                "name": "DELETEFLAT",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 152,
+                "name": "GETFLATCAT",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 21,
+                "name": "GETFLATINFO",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 18,
+                "name": "GETFVRF",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 156,
+                "name": "GETPARENTCHAIN",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 154,
+                "name": "GETSPACENODEUSERS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 151,
+                "name": "GETUSERFLATCATS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 150,
+                "name": "NAVIGATE",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 155,
+                "name": "REMOVEALLRIGHTS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 13,
+                "name": "SBUSYF",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 153,
+                "name": "SETFLATCAT",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 25,
+                "name": "SETFLATINFO",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 17,
+                "name": "SRCHF",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 16,
+                "name": "SUSERF",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 24,
+                "name": "UPDATEFLAT",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 114,
+                "name": "PTM",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 236,
+                "name": "POLL_ANSWER",
+                "asNamespace": "hh_poll.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 235,
+                "name": "POLL_REJECT",
+                "asNamespace": "hh_poll.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 234,
+                "name": "POLL_START",
+                "asNamespace": "hh_poll.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 127,
+                "name": "GETUSERCREDITLOG",
+                "asNamespace": "hh_purse.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 413,
+                "name": "GET_RECYCLER_STATUS",
+                "asNamespace": "hh_recycler.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 414,
+                "name": "RECYCLE_ITEMS",
+                "asNamespace": "hh_recycler.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 46,
+                "name": "AC",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 203,
+                "name": "APPROVE_PASSWORD",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 197,
+                "name": "APPROVEEMAIL",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 130,
+                "name": "COPPA_REG_CHECKTIME",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 131,
+                "name": "COPPA_REG_GETREALTIME",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 9,
+                "name": "GETAVAILABLESETS",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 7,
+                "name": "INFORETRIEVE",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 146,
+                "name": "PARENT_EMAIL_REQUIRED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 43,
+                "name": "REGISTER",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 148,
+                "name": "SEND_PARENT_EMAIL",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 1570,
+                "name": "SUBMIT_GDPR_REQUEST",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 1575,
+                "name": "TOTP_EMAIL_REQUIRED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 44,
+                "name": "UPDATE",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 149,
+                "name": "UPDATE_ACCOUNT",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 147,
+                "name": "VALIDATE_PARENT_EMAIL",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 111,
+                "name": "CHANGEWORLD",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 113,
+                "name": "TRYBUS",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 112,
+                "name": "VOTE",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 108,
+                "name": "CLOSE_UIMAKOPPI",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 106,
+                "name": "JUMPPERF",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 103,
+                "name": "JUMPSTART",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 104,
+                "name": "SIGN",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 107,
+                "name": "SPLASH_POSITION",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 116,
+                "name": "SWIMSUIT",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 109,
+                "name": "CHANGESHRT",
+                "asNamespace": "hh_room_terrace.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 110,
+                "name": "REFRESHFIGURE",
+                "asNamespace": "hh_room_terrace.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 373,
+                "name": "ACTIVATE_AVATAR_EFFECT",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 372,
+                "name": "USE_AVATAR_EFFECT",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 238,
+                "name": "DELETE_PENDING_CALLS_FOR_HELP",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 232,
+                "name": "ENTER_ONEWAY_DOOR",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 237,
+                "name": "GET_PENDING_CALLS_FOR_HELP",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 371,
+                "name": "RESPECT_USER",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 67,
+                "name": "ADDSTRIPITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 96,
+                "name": "ASSIGNRIGHTS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 80,
+                "name": "CARRYDRINK",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 87,
+                "name": "CARRYITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 52,
+                "name": "CHAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 93,
+                "name": "DANCE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 77,
+                "name": "DICE_OFF",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 82,
+                "name": "DOORGOIN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 66,
+                "name": "FLATPROPBYITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 60,
+                "name": "G_HMAP",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 83,
+                "name": "G_IDATA",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 63,
+                "name": "G_ITEMS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 62,
+                "name": "G_OBJS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 64,
+                "name": "G_STAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 61,
+                "name": "G_USRS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 28,
+                "name": "GETDOORFLAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 182,
+                "name": "GETINTERST",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 128,
+                "name": "GETPETSTAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 126,
+                "name": "GETROOMAD",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 65,
+                "name": "GETSTRIP",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 115,
+                "name": "GOAWAY",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 59,
+                "name": "GOTOFLAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 54,
+                "name": "GOVIADOOR",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 81,
+                "name": "INTODOOR",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 95,
+                "name": "KICKUSER",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 98,
+                "name": "LETUSERIN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 79,
+                "name": "LOOKTO",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 75,
+                "name": "MOVE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 91,
+                "name": "MOVEITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 73,
+                "name": "MOVESTUFF",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 90,
+                "name": "PLACESTUFF",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 78,
+                "name": "PRESENTOPEN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 53,
+                "name": "QUIT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 85,
+                "name": "REMOVEITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 97,
+                "name": "REMOVERIGHTS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 99,
+                "name": "REMOVESTUFF",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 330,
+                "name": "ROOMBAN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 158,
+                "name": "SETBADGE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 84,
+                "name": "SETITEMDATA",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 74,
+                "name": "SETSTUFFDATA",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 55,
+                "name": "SHOUT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 88,
+                "name": "STOP",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 76,
+                "name": "THROW_DICE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 69,
+                "name": "TRADE_ACCEPT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 72,
+                "name": "TRADE_ADDITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 70,
+                "name": "TRADE_CLOSE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 71,
+                "name": "TRADE_OPEN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 68,
+                "name": "TRADE_UNACCEPT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 57,
+                "name": "TRYFLAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 89,
+                "name": "USEITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 94,
+                "name": "WAVE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 56,
+                "name": "WHISPER",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 198,
+                "name": "CHANGECALLCATEGORY",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 453,
+                "name": "CREATECALLWITHREPORTING",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 86,
+                "name": "CRYFORHELP",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 49,
+                "name": "GDATE",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 199,
+                "name": "MESSAGETOCALLER",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 200,
+                "name": "MODERATIONACTION",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 48,
+                "name": "PICK_CRYFORHELP",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            }
+        ],
+        "incoming": [
+            {
+                "id": 126,
+                "name": "CATALOGINDEX",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 127,
+                "name": "CATALOGPAGE",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 65,
+                "name": "PURCHASE_ERROR",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 68,
+                "name": "PURCHASE_NOBALANCE",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 67,
+                "name": "PURCHASE_OK",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 296,
+                "name": "PURCHASENOTALLOWED",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 6,
+                "name": "PURSE",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 506,
+                "name": "RECYCLER_PRIZES",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 441,
+                "name": "REFRESH_CATALOGUE",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 72,
+                "name": "TICKETS",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 213,
+                "name": "VOUCHER_REDEEM_ERROR",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 212,
+                "name": "VOUCHER_REDEEM_OK",
+                "asNamespace": "hh_cat_new.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 7,
+                "name": "SCR_SINFO",
+                "asNamespace": "hh_club.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 297,
+                "name": "ALIAS_LIST",
+                "asNamespace": "hh_dynamic_downloader.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 295,
+                "name": "FURNI_REVISIONS",
+                "asNamespace": "hh_dynamic_downloader.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 229,
+                "name": "AVAILABLE_BADGES",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 550,
+                "name": "CALL_FOR_HELP_CATEGORIES",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 141,
+                "name": "CHECK_SUM",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 277,
+                "name": "CRYPTO_PARAMETERS",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 278,
+                "name": "END_CRYPTO",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 52,
+                "name": "EPSNOTIFY",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 0,
+                "name": "HELLO",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 287,
+                "name": "HOTEL_LOGOUT",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 161,
+                "name": "MOD_ALERT",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 20,
+                "name": "ONE_TIME_PASSWORD",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 50,
+                "name": "PING",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 51,
+                "name": "REGISTRATION_OK",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 2,
+                "name": "RIGHTS",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 1,
+                "name": "SECRET_KEY",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 257,
+                "name": "SESSION_PARAMETERS",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 308,
+                "name": "SOUND_SETTING",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 139,
+                "name": "SYSTEM_BROADCAST",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 35,
+                "name": "USER_BANNED",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 5,
+                "name": "USER_OBJ",
+                "asNamespace": "hh_entry.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 349,
+                "name": "FOLLOW_FAILED",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 12,
+                "name": "FRIEND_LIST_INIT",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 13,
+                "name": "FRIEND_LIST_UPDATE",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 132,
+                "name": "FRIEND_REQUEST",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 314,
+                "name": "FRIEND_REQUEST_LIST",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 315,
+                "name": "FRIEND_REQUEST_RESULT",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 435,
+                "name": "HABBO_SEARCH_RESULT",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 364,
+                "name": "MAIL_COUNT_NOTIFICATION",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 363,
+                "name": "MAIL_NOTIFICATION",
+                "asNamespace": "hh_friend_list.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 401,
+                "name": "ARENA_ENTERED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 409,
+                "name": "CREATE_GAME_INFO",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 387,
+                "name": "DIRECTORY_STATUS",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 400,
+                "name": "ENTER_ARENA",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 388,
+                "name": "ENTER_ARENA_FAILED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 416,
+                "name": "GAME_CANCELLED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 399,
+                "name": "GAME_CHAT",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 407,
+                "name": "GAME_CREATED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 406,
+                "name": "GAME_ENDING",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 410,
+                "name": "GAME_LIST",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 408,
+                "name": "GAME_LONG_DATA",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 417,
+                "name": "GAME_LONG_DATA_2",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 396,
+                "name": "GAME_NOT_FOUND",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 415,
+                "name": "GAME_OBSERVATION_STARTED_SHORT",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 389,
+                "name": "GAME_REJOIN",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 418,
+                "name": "GAME_STARTED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 394,
+                "name": "IN_ARENA_QUEUE",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 393,
+                "name": "JOIN_FAILED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 391,
+                "name": "LEVEL_HALL_OF_FAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 402,
+                "name": "LOAD_STAGE",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 390,
+                "name": "PLAYER_EXITED_GAME_ARENA",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 405,
+                "name": "STAGE_ENDING",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 404,
+                "name": "STAGE_RUNNING",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 403,
+                "name": "STAGE_STARTING",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 395,
+                "name": "STAGE_STILL_LOADING",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 392,
+                "name": "START_FAILED",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 413,
+                "name": "USER_JOINED_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 414,
+                "name": "USER_LEFT_GAME",
+                "asNamespace": "hh_ig.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 137,
+                "name": "ADD_BUDDY",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 263,
+                "name": "BUDDYLIST",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 133,
+                "name": "CAMPAIGN_MESSAGE",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 128,
+                "name": "MEMBERINFO",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 260,
+                "name": "MESSENGER_ERROR",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 134,
+                "name": "MESSENGER_MESSAGES",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 147,
+                "name": "MYPERSISTENTMESSAGE",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 138,
+                "name": "REMOVE_BUDDY",
+                "asNamespace": "hh_messenger.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 224,
+                "name": "CANTCONNECT",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 226,
+                "name": "FAILURE",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 61,
+                "name": "FAVOURITEROOMRESULTS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 16,
+                "name": "FLAT_RESULTS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 55,
+                "name": "FLAT_RESULTS_2",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 222,
+                "name": "FLATCAT",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 54,
+                "name": "FLATINFO",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 130,
+                "name": "FLATPASSWORD_OK",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 220,
+                "name": "NAVNODEINFO",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 58,
+                "name": "NOFLATS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 57,
+                "name": "NOFLATSFORUSER",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 227,
+                "name": "PARENTCHAIN",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 223,
+                "name": "SPACENODEUSERS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 225,
+                "name": "SUCCESS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 221,
+                "name": "USERFLATCATS",
+                "asNamespace": "hh_navigator.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 120,
+                "name": "PT_BOTHLOSE",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 116,
+                "name": "PT_END",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 115,
+                "name": "PT_PREPARE",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 114,
+                "name": "PT_START",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 118,
+                "name": "PT_STATUS",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 117,
+                "name": "PT_TIMEOUT",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 119,
+                "name": "PT_WIN",
+                "asNamespace": "hh_paalu.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 317,
+                "name": "POLL_CONTENTS",
+                "asNamespace": "hh_poll.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 318,
+                "name": "POLL_ERROR",
+                "asNamespace": "hh_poll.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 316,
+                "name": "POLL_OFFER",
+                "asNamespace": "hh_poll.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 73,
+                "name": "NOTICKETS",
+                "asNamespace": "hh_purse.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 209,
+                "name": "PURSE_2",
+                "asNamespace": "hh_purse.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 124,
+                "name": "TICKETSBUY",
+                "asNamespace": "hh_purse.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 508,
+                "name": "RECYCLER_FINISHED",
+                "asNamespace": "hh_recycler.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 507,
+                "name": "RECYCLER_STATUS",
+                "asNamespace": "hh_recycler.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 164,
+                "name": "ACR",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 36,
+                "name": "APPROVENAMEREPLY",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 8,
+                "name": "AVAILABLESETS",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 214,
+                "name": "COPPA_CHECKTIME",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 215,
+                "name": "COPPA_GETREALTIME",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 271,
+                "name": "EMAIL_APPROVED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 272,
+                "name": "EMAIL_REJECTED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 3,
+                "name": "LOGIN_OK",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 37,
+                "name": "NAMEUNACCEPTABLE",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 217,
+                "name": "PARENT_EMAIL_REQUIRED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 218,
+                "name": "PARENT_EMAIL_VALIDATED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 282,
+                "name": "PASSWORD_APPROVED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 167,
+                "name": "REREGISTRATIONREQUIRED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 1570,
+                "name": "SUBMIT_GDPR_RESPONSE",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 1575,
+                "name": "TOTP_EMAIL_VERIFICATION_REQUIRED",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 169,
+                "name": "UPDATE_ACCOUNT",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 275,
+                "name": "UPDATE_REQUEST",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 211,
+                "name": "UPDATEOK",
+                "asNamespace": "hh_registrat.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 81,
+                "name": "CANNOT_ENTER_BUS",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 79,
+                "name": "VOTE_QUESTION",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 80,
+                "name": "VOTE_RESULTS",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 82,
+                "name": "VOTES_CLOSE",
+                "asNamespace": "hh_room_park.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 74,
+                "name": "JUMPDATA",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 125,
+                "name": "JUMPINGPLACE_OK",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 123,
+                "name": "JUMPLIFTDOOR_CLOSE",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 122,
+                "name": "JUMPLIFTDOOR_OPEN",
+                "asNamespace": "hh_room_pool.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 97,
+                "name": "CLOSE_UIMAKOPPI",
+                "asNamespace": "hh_room_terrace.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 121,
+                "name": "MD_EXIT",
+                "asNamespace": "hh_room_terrace.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 96,
+                "name": "OPEN_UIMAKOPPI",
+                "asNamespace": "hh_room_terrace.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 462,
+                "name": "AVATAR_EFFECT_ACTIVATED",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 461,
+                "name": "AVATAR_EFFECT_ADDED",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 463,
+                "name": "AVATAR_EFFECT_EXPIRED",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 464,
+                "name": "AVATAR_EFFECT_SELECTED",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 460,
+                "name": "AVATAR_EFFECTS",
+                "asNamespace": "hh_room_ui.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 438,
+                "name": "ACTIVITY_POINT_NOTIFICATION",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 321,
+                "name": "CFH_SENDING_RESPONSE",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 312,
+                "name": "CHANGE_STATUS",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 319,
+                "name": "GET_PENDING_RESPONSE",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 320,
+                "name": "PENDING__CFHS_DELETED",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 440,
+                "name": "RESPECT_NOTIFICATION",
+                "asNamespace": "hh_room_utils.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 93,
+                "name": "ACTIVEOBJECT_ADD",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 94,
+                "name": "ACTIVEOBJECT_REMOVE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 95,
+                "name": "ACTIVEOBJECT_UPDATE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 32,
+                "name": "ACTIVEOBJECTS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 24,
+                "name": "CHAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 25,
+                "name": "CHAT_2",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 26,
+                "name": "CHAT_3",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 18,
+                "name": "CLC",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 90,
+                "name": "DICE_VALUE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 92,
+                "name": "DOOR_IN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 89,
+                "name": "DOOR_OUT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 91,
+                "name": "DOORBELL_RINGING",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 63,
+                "name": "DOORDELETED",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 64,
+                "name": "DOORDELETED_2",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 62,
+                "name": "DOORFLAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 33,
+                "name": "ERROR",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 41,
+                "name": "FLAT_LETIN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 131,
+                "name": "FLATNOTALLOWEDTOENTER",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 46,
+                "name": "FLATPROPERTY",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 31,
+                "name": "HEIGHTMAP",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 219,
+                "name": "HEIGHTMAPUPDATE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 48,
+                "name": "IDATA",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 258,
+                "name": "INTERSTITIALDATA",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 45,
+                "name": "ITEMS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 83,
+                "name": "ITEMS_2",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 29,
+                "name": "LOGOUT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 30,
+                "name": "OBJECTS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 19,
+                "name": "OPC_OK",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 103,
+                "name": "OTHERNOTALLOWED",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 210,
+                "name": "PETSTAT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 129,
+                "name": "PRESENTOPEN",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 84,
+                "name": "REMOVEITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 99,
+                "name": "REMOVESTRIPITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 69,
+                "name": "ROOM_READY",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 42,
+                "name": "ROOM_RIGHTS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 43,
+                "name": "ROOM_RIGHTS_2",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 47,
+                "name": "ROOM_RIGHTS_3",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 208,
+                "name": "ROOMAD",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 259,
+                "name": "ROOMQUEUEDATA",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 71,
+                "name": "SHOWPROGRAM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 230,
+                "name": "SLIDEOBJECTBUNDLE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 34,
+                "name": "STATUS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 98,
+                "name": "STRIPINFO",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 140,
+                "name": "STRIPINFO_2",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 101,
+                "name": "STRIPUPDATED",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 88,
+                "name": "STUFFDATAUPDATE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 109,
+                "name": "TRADE_ACCEPT",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 110,
+                "name": "TRADE_CLOSE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 105,
+                "name": "TRADE_COMPLETED",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 112,
+                "name": "TRADE_COMPLETED_2",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 108,
+                "name": "TRADE_ITEMS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 85,
+                "name": "UPDATEITEM",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 228,
+                "name": "USERBADGE",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 28,
+                "name": "USERS",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 70,
+                "name": "YOUAREMOD",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 102,
+                "name": "YOUARENOTALLOWED",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 254,
+                "name": "YOUARESPECTATOR",
+                "asNamespace": "hh_room.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 274,
+                "name": "CRY_REPLY",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 148,
+                "name": "CRYFORHELP",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 163,
+                "name": "DATE",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 273,
+                "name": "DELETE_CRY",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            },
+            {
+                "id": 149,
+                "name": "PICKED_CRY",
+                "asNamespace": "hh_shared.cct",
+                "asClass": null,
+                "confident": true
+            }
+        ]
+    }
+}
